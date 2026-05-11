@@ -18,8 +18,8 @@
 
 | Period | Project | Description | Stack |
 | :--- | :--- | :--- | :--- |
-| 2026.03<br>~ present | [**CUDA Basic Kernel Optimization**](https://github.com/chorogchip/cuda-basic-kernel-optimization) | Optimized Reduction, vector addition, matrix transpose, prefix scan<br>Reached 95% of peak bandwidth in reduction | `CUDA` `C/C++` `Linux` `Make`<br>⚙️ **Performance Optimization** |
-| 2026.05<br>~ present | [**VoxelConeTracing-OpenGL**](https://github.com/chorogchip/VoxelConeTracing-OpenGL) | OpenGL renderer | `C++` `OpenGL`<br>🎮 **Graphics** |
+| 2026.03<br>~ present | [**CUDA Kernel Optimization**](https://github.com/chorogchip/cuda-kernel-optimization) | Optimized Reduction, vector addition, matrix transpose, prefix scan<br>Reached 95% of peak bandwidth in reduction | `CUDA` `C/C++` `Linux` `Make`<br>⚙️ **Performance Optimization** |
+| 2026.05<br>~ present | [**OpenGL-Renderer**](https://github.com/chorogchip/OpenGL-Renderer) | OpenGL renderer | `C++` `OpenGL`<br>🎮 **Graphics** |
 | 2023.01<br>~ 2023.07 | [**FirstVox**](https://github.com/chorogchip/SecondVox)<br>*(Voxel Renderer)* | voxel rendering, Paged world streaming, multithreaded task queue, 2-player world synchronization | `C++` `DirectX 11` `Winsock2`<br>🎮 **Graphics** |
 ---
 
